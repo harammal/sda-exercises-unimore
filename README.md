@@ -4,6 +4,14 @@ This repository contains my personal solutions to the exercises of the course "S
 
 These solutions are shared for educational purposes only.
 
+## Primitives / Credits
+
+The primitive implementations used in exercises were created by Federico Bolelli and are distributed under the BSD 3-Clause License: Copyright (c) 2020 - 2021, Federico Bolelli
+
+Moral rights:  
+Federico Bolelli (federico.bolelli@unimore.it)  
+The code is available at: [https://github.com/prittt/fondamenti-ii](https://github.com/prittt/fondamenti-ii)  
+
 ## Repository Structure
 
 - `01-recursion/` – Recursive exercises
