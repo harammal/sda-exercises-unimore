@@ -18,17 +18,18 @@ The code is available at: [https://github.com/prittt/fondamenti-ii](https://gith
 - `02-backtracking/` – Backtracking exercises
 - `03-greedy/` – Greedy algorithm exercises
 - `04-sorting/` – Sorting exercises
-  - `primitives/`
+  - `algorithms/`
   - `exercises/`
+  - `primitives/`
 - `05-linked-lists/` – Linked list exercises
-  - `primitives/` 
   - `exercises/`
+  - `primitives/`
 - `06-trees-and-bst/` – Tree and BST exercises
-  - `primitives/`
   - `exercises/`
+  - `primitives/`
 - `07-heaps/` – Heap exercises
-  - `primitives/`
   - `exercises/`
+  - `primitives/`
 
 ## License
 
