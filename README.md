@@ -34,3 +34,4 @@ The code is available at: [https://github.com/prittt/fondamenti-ii](https://gith
 ## License
 
 This project is licensed under MIT License.
+<!-- fix-contributions-recovery -->
